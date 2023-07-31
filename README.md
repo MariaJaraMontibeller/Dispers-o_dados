@@ -1,1 +1,3 @@
-# Dispers-o_dados
+# Dispersão_dados
+
+Visualização de dispersão de dados pelo Google Colab
